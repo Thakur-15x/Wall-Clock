@@ -1,5 +1,5 @@
 body{
-    background: url(bg.jpg) no-repeat ;
+    background: url(./images/bg.jpg) no-repeat ;
     background-size: 100%;
 }
 #clockContainer{  
@@ -7,7 +7,7 @@ body{
     margin: auto;
     height: 40vw;
     width: 40vw; 
-    background: url(clock.png) no-repeat;
+    background: url(./images/clock.png) no-repeat;
     background-size: 99%;
 }
 
